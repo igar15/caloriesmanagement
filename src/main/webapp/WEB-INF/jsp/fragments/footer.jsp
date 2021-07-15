@@ -2,7 +2,8 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <%--https://getbootstrap.com/docs/4.0/examples/sticky-footer/--%>
 <footer class="footer">
-    <div class="container">
-        <span class="text-muted"><spring:message code="app.footer"/></span>
+    <div class="text-center" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2021 Copyright:
+        <a class="text-dark" href="https://javaprojects.ru/">Java Projects</a>
     </div>
 </footer>
