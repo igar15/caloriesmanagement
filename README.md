@@ -1,5 +1,5 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a806d20000d6447a855258744dd00dae)](https://www.codacy.com/gh/igar15/caloriesmanagement/dashboard)
-[![Build Status](https://api.travis-ci.com/igar15/caloriesmanagement.svg?branch=master)](https://travis-ci.com//igar15/caloriesmanagement)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a806d20000d6447a855258744dd00dae)](https://www.codacy.com/gh/ishlyakhtenkov/caloriesmanagement/dashboard)
+[![Build Status](https://api.travis-ci.com/ishlyakhtenkov/caloriesmanagement.svg?branch=master)](https://travis-ci.com//ishlyakhtenkov/caloriesmanagement)
 
 Calories Management System project 
 =================================
